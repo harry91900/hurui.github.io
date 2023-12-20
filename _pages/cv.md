@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mathematics and Applied Mathematics, Guangxi Normal University, China, 2019
+* M.S. in Computational Mathematics, Yunnan Minzu University, China, 2022
+* Ph.D. in Mathematical Sciences, University of Malaya, Malaysia, Expected 2026
 
 Work experience
 ======
