@@ -50,13 +50,3 @@ I hope to continue contributing to the development of mathematical models for re
 Please feel free to contact me for academic communication, collaboration, or discussion related to **mathematical modelling**, **computational mathematics**, and **epidemic dynamics**.
 
 
-## Academic Metrics
-
-- **Google Scholar Profile:** [View my profile](https://scholar.google.com/citations?user=YOUR_ID&hl=en)
-- **Total Citations:** ![Citations](YOUR_BADGE_URL)
-- **h-index:** ![h-index](YOUR_H_BADGE_URL)
-- **i10-index:** ![i10-index](YOUR_I10_BADGE_URL)
-
-## Website Analytics
-
-Visitor statistics are collected for general website analysis.
