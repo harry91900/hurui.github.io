@@ -31,7 +31,7 @@ My current work centers on the mathematical modelling and analysis of epidemic s
 
 ## Supervisory Team
 
-- **Dr. Elayaraja Aruchunan** — [Profile](https://umexpert.um.edu.my/elayarajah)
+- **Dr. Elayaraja Aruchunan** — [Profile](https://umexpert.um.edu.my/elayarajah.html)
 - **Dr. Nur Anisah Mohamed** — [Profile](https://umexpert.um.edu.my/nuranisah_mohamed.html)
 - **Dr. Muhamad Hifzhudin Noor Aziz** — [Profile](https://umexpert.um.edu.my/hifz_din.html)
 
