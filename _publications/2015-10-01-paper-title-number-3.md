@@ -2,7 +2,6 @@
 title: "Dynamic analysis and optimal control of a fractional-order epidemic model with nucleic acid detection and individual protective awareness: A Malaysian case study"
 collection: publications
 permalink: /publication/2025-07-17-fractional-optimal-control-malaysia
-excerpt: 'A fractional-order COVID-19 model with nucleic acid detection and individual protective awareness, calibrated using Malaysian data and extended with optimal control and cost-effectiveness analysis.'
 date: 2025-07-17
 venue: 'AIMS Mathematics'
 paperurl: 'https://doi.org/10.3934/math.2025724'
