@@ -2,7 +2,6 @@
 title: "Modeling and analysis of dynamical behavior in a fractional-order COVID-19 epidemic model with media coverage: A case study of Malaysia"
 collection: publications
 permalink: /publication/2025-08-01-media-coverage-malaysia
-excerpt: 'A fractional-order COVID-19 SEIHR model with media coverage, calibrated to outbreak data from Perak, Terengganu, and Johor in Malaysia.'
 date: 2025-08-01
 venue: 'Alexandria Engineering Journal'
 paperurl: 'https://doi.org/10.1016/j.aej.2025.06.057'
