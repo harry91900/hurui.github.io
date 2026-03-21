@@ -2,7 +2,6 @@
 title: "Modeling and analysis of a delayed fractional order COVID-19 SEIHRM model with media coverage in Malaysia"
 collection: publications
 permalink: /publication/2025-07-13-delayed-fractional-covid-seihrm-malaysia
-excerpt: 'A delayed fractional-order COVID-19 SEIHRM model with media coverage, developed to capture memory effects and behavioral response delays in Malaysia.'
 date: 2025-07-13
 venue: 'Scientific Reports'
 paperurl: 'https://doi.org/10.1038/s41598-025-99389-8'
