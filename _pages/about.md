@@ -49,4 +49,30 @@ I hope to continue contributing to the development of mathematical models for re
 
 Please feel free to contact me for academic communication, collaboration, or discussion related to **mathematical modelling**, **computational mathematics**, and **epidemic dynamics**.
 
+## Academic Metrics
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:18px;margin:18px 0 28px 0;">
+
+  <div style="padding:20px;border:1px solid #e5e7eb;border-radius:16px;background:#ffffff;box-shadow:0 1px 2px rgba(0,0,0,0.04);">
+    <div style="font-size:0.92rem;color:#64748b;margin-bottom:8px;">Google Scholar</div>
+    <div style="font-size:1.15rem;font-weight:700;color:#111827;margin-bottom:10px;">Academic Profile</div>
+    <div style="font-size:0.96rem;line-height:1.7;color:#374151;margin-bottom:14px;">
+      View my Google Scholar profile for publications, citations, h-index, and i10-index.
+    </div>
+    <a href="https://scholar.google.com.hk/citations?user=V-4PPD0AAAAJ&hl=en" target="_blank" rel="noopener"
+       style="display:inline-block;padding:10px 16px;border-radius:10px;background:#2563eb;color:#ffffff;text-decoration:none;font-weight:600;">
+      View Google Scholar
+    </a>
+  </div>
+
+  <div style="padding:20px;border:1px solid #e5e7eb;border-radius:16px;background:#ffffff;box-shadow:0 1px 2px rgba(0,0,0,0.04);">
+    <div style="font-size:0.92rem;color:#64748b;margin-bottom:8px;">Research Identity</div>
+    <div style="font-size:1.15rem;font-weight:700;color:#111827;margin-bottom:10px;">Scholarly Visibility</div>
+    <div style="font-size:0.96rem;line-height:1.7;color:#374151;">
+      Citation information is available on my Google Scholar profile.  
+      More research identifiers and metrics can be added here later if needed.
+    </div>
+  </div>
+
+</div>
 
