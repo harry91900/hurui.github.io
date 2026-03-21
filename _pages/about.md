@@ -27,13 +27,13 @@ My doctoral research focuses on **fractional-order epidemic modelling**, with pa
 
 ## Current Research
 
-My current work centers on the mathematical modelling and analysis of epidemic systems, especially fractional-order SEIHR-type models for COVID-19. I am particularly interested in the interplay between **memory effects**, **human behavioral responses**, and **public-health interventions** in shaping disease dynamics.
+My current work centers on the mathematical modelling and analysis of epidemic systems. I am particularly interested in the interplay between **memory effects**, **human behavioral responses**, and **public-health interventions** in shaping disease dynamics.
 
 ## Supervisory Team
 
-- **Dr. Elayaraja A/L Aruchunan** — [Profile](https://umexpert.um.edu.my/elayarajah)
-- **Dr. Nur Anisah Binti Mohamed @ A. Rahman** — [Profile](https://umexpert.um.edu.my/nuranisah_mohamed.html)
-- **Dr. Muhamad Hifzhudin Bin Noor Aziz** — [Profile](https://umexpert.um.edu.my/hifz_din.html)
+- **Dr. Elayaraja Aruchunan** — [Profile](https://umexpert.um.edu.my/elayarajah)
+- **Dr. Nur Anisah Mohamed** — [Profile](https://umexpert.um.edu.my/nuranisah_mohamed.html)
+- **Dr. Muhamad Hifzhudin Noor Aziz** — [Profile](https://umexpert.um.edu.my/hifz_din.html)
 
 ## Academic Background
 
