@@ -1,22 +1,50 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "About"
+excerpt: "About"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-Hello, I am Hu Rui, a doctoral candidate in the Institute of Mathematical Sciences at the University of Malaya, Malaysia. I hold a Bachelor's degree in Mathematics and Applied Mathematics from Guangxi Normal University and pursued my Master's degree in Computational Mathematics at Yunnan Minzu University. Currently, I am dedicated to the pursuit of a Ph.D.
+## About Me
 
-Academic Background: My academic journey commenced at Guangxi Normal University, majoring in Mathematics and Applied Mathematics, laying a solid foundation for my subsequent in-depth mathematical research. Subsequently, I pursued my graduate studies at Yunnan Minzu University, specializing in Computational Mathematics, and I am currently working towards obtaining a Ph.D.
+I am **Rui Hu**, a PhD candidate in the **Institute of Mathematical Sciences, Universiti Malaya, Malaysia**.
 
-Research Focus: My research primarily centers on mathematical modeling in the field of biology, specifically the dynamical behaviors of epidemic models. Through the integration of mathematical and computational knowledge, I strive to comprehend the transmission mechanisms of infectious diseases, providing theoretical support for disease prevention and control.
+My academic background is in **mathematics**, **computational mathematics**, and **mathematical biology**. I received my Bachelor's degree in **Mathematics and Applied Mathematics** from **Guangxi Normal University** and my Master's degree in **Computational Mathematics** from **Yunnan Minzu University**.
 
-Research Achievements: In my research endeavors, I have employed mathematical models to analyze the dynamic characteristics of infectious diseases, aiming to identify potential control strategies. These efforts are geared towards offering practical tools and recommendations for the field of public health.
+My doctoral research focuses on **fractional-order epidemic modelling**, with particular emphasis on **COVID-19 transmission dynamics**, **media effects**, **delay effects**, **awareness**, **testing**, and **optimal control**. My goal is to develop mathematically rigorous and practically relevant models that can support public-health decision-making.
 
-Future Prospects: As an enthusiastic researcher, my goal is to further apply my knowledge in mathematics and computational mathematics to address biomedical challenges. I aspire to make greater contributions to the field of societal health, utilizing the power of mathematics to solve real-world problems.
+## Research Interests
 
-Thank you for your interest in my introduction. If you have any questions or interests in mathematics, computational mathematics, or biological modeling, I look forward to engaging in more in-depth discussions with you.
+- **Fractional differential equations**
+- **Mathematical epidemiology**
+- **Infectious disease modelling**
+- **Delay differential equations**
+- **Optimal control**
+- **Data-driven epidemic analysis**
 
+## Current Research
+
+My current work centers on the mathematical modelling and analysis of epidemic systems, especially fractional-order SEIHR-type models for COVID-19. I am particularly interested in the interplay between **memory effects**, **human behavioral responses**, and **public-health interventions** in shaping disease dynamics.
+
+## Supervisory Team
+
+- **Dr. Elayaraja A/L Aruchunan** — [Profile](https://umexpert.um.edu.my/elayarajah)
+- **Dr. Nur Anisah Binti Mohamed @ A. Rahman** — [Profile](https://umexpert.um.edu.my/nuranisah_mohamed.html)
+- **Dr. Muhamad Hifzhudin Bin Noor Aziz** — [Profile](https://umexpert.um.edu.my/hifz_din.html)
+
+## Academic Background
+
+- **PhD in Mathematical Sciences** — Universiti Malaya, Malaysia
+- **Master's degree in Computational Mathematics** — Yunnan Minzu University, China
+- **Bachelor's degree in Mathematics and Applied Mathematics** — Guangxi Normal University, China
+
+## Research Goal
+
+I hope to continue contributing to the development of mathematical models for real-world biomedical and public-health problems, especially through the integration of theory, computation, and data analysis.
+
+## Contact
+
+Please feel free to contact me for academic communication, collaboration, or discussion related to **mathematical modelling**, **computational mathematics**, and **epidemic dynamics**.
