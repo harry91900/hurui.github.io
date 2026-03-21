@@ -35,4 +35,26 @@
 </script>
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML' async></script>
 
+<script
+  data-goatcounter="https://ray999.goatcounter.com/count"
+  async
+  src="//gc.zgo.at/count.js"></script>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  var target = document.querySelector("#gc-pageviews");
+  if (!target) return;
+
+  var t = setInterval(function () {
+    if (window.goatcounter && window.goatcounter.visit_count) {
+      clearInterval(t);
+      window.goatcounter.visit_count({
+        append: "#gc-pageviews",
+        no_branding: true
+      });
+    }
+  }, 120);
+});
+</script>
+
 <!-- end custom head snippets -->
