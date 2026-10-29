@@ -1,5 +1,6 @@
 
 ---
+layout: single
 permalink: /
 title: "About"
 excerpt: "About"
@@ -100,8 +101,9 @@ I welcome academic discussions and potential research collaborations in mathemat
 
 # 🎖 PROFESSIONAL ACTIVITIES & AWARDS / 学术活动与荣誉
 
-Further details of academic service, professional activities, and awards will be added as applicable.
+My professional interests include university teaching, academic exchange, and interdisciplinary collaboration in mathematical modelling, computational mathematics, and mathematical biology. Further details of academic service, professional activities, and awards will be added as applicable.
 
+我的专业发展主要围绕高校教学、学术交流以及数学建模、计算数学和数学生物学领域的跨学科合作展开。后续将根据实际情况补充相关学术服务、专业活动与荣誉信息。
 
 # 💰 FUNDING / 科研项目与经费
 
@@ -114,6 +116,3 @@ Information on research grants and funded projects will be added when the releva
 Please feel free to contact me for academic communication, research collaboration, or discussion related to mathematical modelling, computational mathematics, mathematical biology, and scientific machine learning.
 
 欢迎就数学建模、计算数学、数学生物学和科学机器学习等相关领域与我进行学术交流、科研合作与讨论。
-
-
-
